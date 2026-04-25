@@ -2,10 +2,10 @@
 
 
  **Nama** : Periyanti Rayo
+ 
  **NIM**  : IK2411006
 
 
-## 📝 Ringkasan Tugas
 
 Repository ini berisi tugas praktikum SQL yang membahas pembuatan database, tabel, serta penggunaan logika pemrograman pada MySQL seperti **IF ELSE**, **CASE**, dan **Stored Procedure**.
 
