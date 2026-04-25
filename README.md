@@ -146,8 +146,3 @@ CALL cek_predikat_mahasiswa(85);
 
 
 
-## ✨ Penutup
-
-Dokumen ini dibuat sebagai panduan penggunaan repository serta ringkasan dari tugas praktikum SQL yang telah dikerjakan.
-
----
